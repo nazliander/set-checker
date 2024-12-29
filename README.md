@@ -1,2 +1,13 @@
-# set-checker
-Set board game rule checker
+# Set Checker
+
+To install:
+
+```bash
+poetry install
+```
+
+To run:
+
+```bash
+set-checker
+```
